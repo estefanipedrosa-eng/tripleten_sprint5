@@ -45,3 +45,8 @@ O objetivo é facilitar a visualização dos padrões e das relações entre as 
 ## Análise exploratória
 
 O notebook `EDA.ipynb` apresenta a exploração inicial dos dados e as visualizações desenvolvidas com Plotly Express.
+
+## Aplicação publicada
+
+https://tripleten-sprint5-lla1.onrender.com
+
